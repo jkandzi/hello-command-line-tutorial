@@ -1,0 +1,15 @@
+PODS:
+  - Commander (0.6.0)
+  - RainbowSwift (2.0.1)
+
+DEPENDENCIES:
+  - Commander (~> 0.6)
+  - RainbowSwift (~> 2.0)
+
+SPEC CHECKSUMS:
+  Commander: fba7c96c9e787ecc8ebe0737be875e1e18ef47ff
+  RainbowSwift: 54b5fbfe5c6225d5da50ce30244f04cf0b81eb2d
+
+PODFILE CHECKSUM: e2ab2f723128f372cdb5ffad177d2b8abb7d86e9
+
+COCOAPODS: 1.1.1
